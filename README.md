@@ -28,8 +28,7 @@ javac *.java
 java EmployeeApp
 ```
 ## Screenshot
-```
 <img width="434" height="307" alt="image" src="https://github.com/user-attachments/assets/5b1b48eb-13df-4981-a711-5297643b05ed" />
-```
+
 <img width="497" height="338" alt="image" src="https://github.com/user-attachments/assets/859c05ed-5be3-44b8-a48f-aa2a0879d6f4" />
 
